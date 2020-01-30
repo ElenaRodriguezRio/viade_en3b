@@ -12,5 +12,5 @@ The app is deployed at [https://arquisoft.github.io/viade_en3b/](https://arquiso
 
 More information about how this project has been setup is available [in the wiki](https://github.com/Arquisoft/viade_en3b/wiki).
 
-lalalal
+modification
 grgbbrbr
